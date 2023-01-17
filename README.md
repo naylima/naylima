@@ -15,9 +15,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naylima&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<br />
+<br /> 
   
 ## Technologies
+
+<img height="270" width="270" align="right" alt="GIF" src="https://media.tenor.com/ckmysFEiPaAAAAAi/coffee-is-love.gif" />
+
 <div style="display: inline_block"><br>
   <b> Front-End </b> <br><br>
   <img align="center" alt="React" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
