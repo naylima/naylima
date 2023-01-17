@@ -1,4 +1,4 @@
-## Hi there 👋 !! My name is Nayara and I'm a Software Developer and Engeneer, from Brazil!
+## Hi there 👋 !! My name is Nayara and I'm a Software Developer and Engineer, from Brazil!
 
 ### About me: 
 - 🎓 Bachelor of Petroleum Engineering by Universidade Federal do Rio de Janeiro (UFRJ)
