@@ -5,7 +5,7 @@
   <h3>Software Developer, Brazil 🪐</h3><br>
 </div>
 
-- 🎓 Bachelor of Petroleum Engineering in Universidade Federal do Rio de Janeiro (UFRJ)
+- 🎓 Bachelor in Petroleum Engineering from Universidade Federal do Rio de Janeiro (UFRJ)
 - 👩‍💻 Currently studying Docker!
 - 🌱 Plant lover!
 
@@ -22,6 +22,7 @@
   <b> Front-End </b> <br><br>
   <img align="center" alt="React" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Ts" height="40" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />          
   <img align="center" alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="VUE" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
