@@ -6,7 +6,7 @@
 </div>
 
 - 🎓 Bachelor in Petroleum Engineering from Universidade Federal do Rio de Janeiro (UFRJ)
-- 👩‍💻 Currently studying AWS!
+- 👩‍💻 Currently studying JAVA!
 - 🌱 Plant lover!
   
 <br /> 
